@@ -1,3 +1,20 @@
 body {
-    background-color: aqua;
+    margin-left: 3rem;
+    font-family: sans-serif;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.unbold {
+    font-weight: normal;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+.close {
+    margin-top: 0%;
 }

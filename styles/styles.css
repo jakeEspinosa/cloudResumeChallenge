@@ -15,6 +15,31 @@ h1 {
     margin-bottom: 0%;
 }
 
-.close {
+.close-top {
     margin-top: 0%;
+}
+
+.close-bottom {
+    margin-bottom: .5%;
+}
+
+li, p {
+    font-size: large;
+}
+
+.gap {
+    margin-bottom: .5%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.offset {
+    margin-left: auto;
+} 
+
+h2 {
+    display: flex;
+    width: 850px;
 }

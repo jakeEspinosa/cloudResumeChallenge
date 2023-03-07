@@ -48,3 +48,8 @@ h2, .edu {
     display: flex;
     width: 1050px;
 }
+
+.textbox {
+    width: 1050px;
+    margin-left: 30px;
+}

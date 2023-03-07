@@ -39,7 +39,12 @@ li, p {
     margin-left: auto;
 } 
 
-h2 {
+h2, .exp {
     display: flex;
     width: 850px;
+}
+
+h2, .edu {
+    display: flex;
+    width: 1050px;
 }

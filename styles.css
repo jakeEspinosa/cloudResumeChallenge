@@ -27,7 +27,7 @@ li, p {
     font-size: large;
 }
 
-.gap {
+li {
     margin-bottom: .5%;
 }
 
@@ -39,7 +39,7 @@ li, p {
     margin-left: auto;
 } 
 
-h2, .exp {
+h2, .exp, .double-table {
     display: flex;
     width: 850px;
 }

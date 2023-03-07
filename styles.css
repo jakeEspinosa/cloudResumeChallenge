@@ -39,7 +39,7 @@ li {
     margin-left: auto;
 } 
 
-h2, .exp, .double-table {
+h2, .experience, .double-table {
     display: flex;
     width: 850px;
 }

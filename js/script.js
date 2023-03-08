@@ -1,4 +1,4 @@
-const URL = "https://lvbylmj5md.execute-api.us-west-1.amazonaws.com/cloudResumeChallenge/visitorcount"
+const URL = "https://api.jakeespinosa.com/visitorcount"
 const httpRequest = new XMLHttpRequest();
 
 function handler() {
